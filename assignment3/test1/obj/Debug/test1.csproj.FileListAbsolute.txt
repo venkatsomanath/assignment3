@@ -1,0 +1,12 @@
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\test1.dll
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\test1.pdb
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\assignment3.exe
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\nunit.framework.dll
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\assignment3.pdb
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\assignment3.exe.config
+C:\Users\somnath\source\repos\assignment3\test1\bin\Debug\nunit.framework.xml
+C:\Users\somnath\source\repos\assignment3\test1\obj\Debug\test1.csprojAssemblyReference.cache
+C:\Users\somnath\source\repos\assignment3\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\somnath\source\repos\assignment3\test1\obj\Debug\test1.csproj.CopyComplete
+C:\Users\somnath\source\repos\assignment3\test1\obj\Debug\test1.dll
+C:\Users\somnath\source\repos\assignment3\test1\obj\Debug\test1.pdb

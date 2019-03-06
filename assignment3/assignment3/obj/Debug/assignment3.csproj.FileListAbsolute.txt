@@ -1,0 +1,10 @@
+C:\Users\somnath\source\repos\assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\somnath\source\repos\assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\somnath\source\repos\assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\somnath\source\repos\assignment3\assignment3\bin\Debug\nunit.framework.dll
+C:\Users\somnath\source\repos\assignment3\assignment3\bin\Debug\nunit.framework.xml
+C:\Users\somnath\source\repos\assignment3\assignment3\obj\Debug\assignment3.csprojAssemblyReference.cache
+C:\Users\somnath\source\repos\assignment3\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\somnath\source\repos\assignment3\assignment3\obj\Debug\assignment3.csproj.CopyComplete
+C:\Users\somnath\source\repos\assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\somnath\source\repos\assignment3\assignment3\obj\Debug\assignment3.pdb
