@@ -268,7 +268,7 @@ namespace test1
             {
 
 
-                double number1 = 8;
+                double number1 = 7;
                 double number2 = 3;
 
                 double expectedResult = number1 * number2;
